@@ -24,6 +24,8 @@
 You must have the **Cyberbullying Detection System** Flask app (`app.py` and `Bert.hdfs`) running alongside this frontend.
 
 ---
+Vedio Clip: https://drive.google.com/file/d/1Y-Gztev5irsR5yV54RTaDi9vX3YBO9oZ/view?usp=sharing
+---
 
 ## 📂 Project Structure
 
